@@ -1,7 +1,7 @@
 # Repo Template
 Repo template, using Codespaces and GitPod
 
-Template para meus repositórios, usando Codespaces e GitPod
+Template para repositórios, usando Codespaces e GitPod
 
 ## Extensions
 * AWS CLI
